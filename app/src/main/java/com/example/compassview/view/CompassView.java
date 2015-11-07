@@ -1,4 +1,4 @@
-package com.example.compassview;
+package com.example.compassview.view;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -15,6 +15,8 @@ import android.graphics.Shader;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.accessibility.AccessibilityEvent;
+
+import com.example.compassview.R;
 
 /**
  * Created by Антон on 14.06.2015.
